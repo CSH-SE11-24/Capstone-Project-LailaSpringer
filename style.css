@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* Sizing card to make them sit properly */
+.card1{
+  height:auto;
+  width: 7vw; 
+  margin-right: 2vw;
+}
+.card2{
+  height:auto;
+  width: 7vw; 
+  margin-left: 2vw;
+}
+
+.pink {
+   background-color:#ff3de5 !important;
+  color:#ffc7f0 !important;
+   text-align:center !important;
+ }
+/* Coloring the navbar */
+.navbar{
+  background-color: #f240da !important;
+  text-align: center !important;
+  text-decoration-color: #ffc7f0 !important;
+}
+/* Coloring the background */
+body{
+  background-color:#ffc7e2
+}
